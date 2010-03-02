@@ -1,0 +1,3 @@
+This class provides a simple cookie manager. It serializes the data into JSON, so that multiple data (or an entire object) can be stored into a cookie without setting more than one cookie.
+
+This is free software released under a LGPL license; feel free to make any change you need. This software comes with NO WARRANTY.
